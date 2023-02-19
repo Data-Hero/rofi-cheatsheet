@@ -4,7 +4,7 @@ set -e
 set -u
 
 # All cheatsheets
-all=(shell i3 vim ncmpcpp R C Python Java)
+all=(shell i3 vim ncmpcpp)
 
 show=("${all[@]}")
 
